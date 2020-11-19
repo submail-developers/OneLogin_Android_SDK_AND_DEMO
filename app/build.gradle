@@ -1,0 +1,56 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        submail {
+            storeFile file('/Users/submail/Desktop/onelogain/AndroidSDK/SubmailDemo/submail.jks')
+            storePassword 'submail2020'
+            keyAlias = 'submail'
+            keyPassword 'submail2020'
+        }
+    }
+
+    compileSdkVersion 28
+    buildToolsVersion "29.0.3"
+
+    defaultConfig {
+        applicationId "com.submail.sdkAndroid"
+        minSdkVersion 19
+        targetSdkVersion 28
+        versionCode 100
+        versionName "1.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig signingConfigs.submail
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    repositories {
+        flatDir { dirs 'libs' }
+    }
+
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation(name: 'CMCCSSOSDK_5.7.1_release', ext: 'aar')//移动通用版5.7.1
+    implementation(name: 'allnetloginsdk_2.3.5_release', ext: 'aar')
+    implementation(name: 'CTAccount_sdk_api_v3.7.0_all', ext: 'aar')
+    implementation(name: 'unicom_login_android_v4.1.0', ext: 'aar')
+    implementation(name: 'submail_sdk_1.0.1', ext: 'aar')
+    implementation 'com.alibaba:fastjson:1.2.58'
+    implementation 'com.squareup.okhttp3:okhttp:3.6.0'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+
+}
