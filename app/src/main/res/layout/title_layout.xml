@@ -5,5 +5,14 @@
     android:orientation="vertical"
     android:padding="10dp">
 
+    <ImageView
+        android:id="@+id/clause_back"
+        android:layout_width="20dp"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:visibility="visible"
+        android:src="@drawable/exit"/>
+
 
 </LinearLayout>

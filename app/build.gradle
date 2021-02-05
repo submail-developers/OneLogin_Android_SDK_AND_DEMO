@@ -38,7 +38,7 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation(name: 'CMCCSSOSDK_5.7.1_release', ext: 'aar')//移动通用版5.7.1
+    implementation(name: 'CMCCSSOSDK', ext: 'aar')//移动通用版
     implementation(name: 'allnetloginsdk_2.3.5_release', ext: 'aar')
     implementation(name: 'CTAccount_sdk_api_v3.7.0_all', ext: 'aar')
     implementation(name: 'unicom_login_android_v4.1.0', ext: 'aar')
