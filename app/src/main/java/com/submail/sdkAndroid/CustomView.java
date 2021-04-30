@@ -1,4 +1,4 @@
-package com.submail.sdk;
+package  com.submail.sdkAndroid;
 
 import android.content.Context;
 import android.util.AttributeSet;
@@ -16,7 +16,7 @@ public class CustomView extends RelativeLayout {
     public CustomView(final Context context) {
         super(context);
         View view = LayoutInflater.from(context).inflate(R.layout.cm_login_activity, this, true);
-        backView = (ImageView) view.findViewById(R.id.back);
+        backView = (ImageView) view.findViewById(R.id.clause_back);
         backView.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {

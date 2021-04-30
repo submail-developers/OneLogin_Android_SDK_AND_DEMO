@@ -1,4 +1,4 @@
-package com.submail.sdk;
+package com.submail.sdkAndroid;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -39,9 +39,9 @@ public class CmOneLoginViewConfig {
                 .setNumFieldOffsetY(250)//号码栏Y偏移量
 
                 .setLogBtnText("本机号码一键登录")//登录按钮文本
-                .setLogBtnTextColor(0xffffffff)//登录按钮文本颜色
+                .setLogBtnTextColor(0xFFFFFF)//登录按钮文本颜色
                 .setLogBtnImgPath("submail_btn_bg")//登录按钮背景
-                .setLogBtnText("一键登录", 0xffffffff, 15)
+                .setLogBtnText("一键登录", 0xFFFFFF, 15)
                 .setLogBtnOffsetY_B(400)//登录按钮Y偏移量
                 .setLogBtnOffsetY(400)//登录按钮Y偏移量
                 .setLogBtn(500, 50)

@@ -77,7 +77,7 @@ public class MainActivity extends Activity {
             public void onClick(View v) {
                 int netType=getNetworkType();
                 if(netType==1){
-                    AuthThemeConfig authThemeConfig=CmOneLoginViewConfig.initConfig().build();
+                    AuthThemeConfig authThemeConfig=CmOneLoginViewConfig.initConfig(mCtx).build();
                     SubSDK.getLoginToken(mCtx, authThemeConfig,new SubCallback() {
                         @Override
                         public void onResult(boolean var1, final String var2) {

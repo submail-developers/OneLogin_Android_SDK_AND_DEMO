@@ -14,7 +14,8 @@ public class OneLoginViewConfig {
                 .setDialogTheme(false, 400, 500, 50, 50, false)
                 //设置“登录授权页”的布局文件ID
                 .setAuthActivityLayoutId(R.layout.submail_login_activity)
-                .setStusBar(R.color.colorAccent,true,false)//设置状态栏颜色和是否隐藏
+                .setStatusBar(R.color.colorAccent,true,false)//设置状态栏颜色和是否隐藏
+                .setprivacyRemindText("请勾选服务协议框")
                 //设置“登录授权页”的控件ID
                 .setAuthActivityViewIds(R.id.submail_login_nav_back, //导航栏返回按钮ID
                         R.id.submail_login_number,                   //脱敏号码控件ID
