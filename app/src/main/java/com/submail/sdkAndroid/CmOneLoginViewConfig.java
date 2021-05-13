@@ -29,19 +29,19 @@ public class CmOneLoginViewConfig {
 //                .setAuthLayoutResID(R.layout.empty_layout)
                 .setAuthContentView(new CustomView(ctx))
                 .setNavTextSize(20)
-                .setNavTextColor(0xFFFFFF)//导航栏字体颜色
+                .setNavTextColor(0xffffffff)//导航栏字体颜色
                 .setNavColor(Color.BLUE)
 
-                .setNumberSize(30)////手机号码字体大小
+                .setNumberSize(30,false)////手机号码字体大小
                 .setNumberColor(0xff333333)//手机号码字体颜色
 //                .setNumberOffsetX(30)//号码栏X偏移量 如不设置则默认居中
 //                .setNumFieldOffsetY_B(200)
                 .setNumFieldOffsetY(250)//号码栏Y偏移量
 
-                .setLogBtnText("本机号码一键登录")//登录按钮文本
-                .setLogBtnTextColor(0xFFFFFF)//登录按钮文本颜色
+//                .setLogBtnText("本机号码一键登录")//登录按钮文本
+//                .setLogBtnTextColor(0xFFFFFF)//登录按钮文本颜色
                 .setLogBtnImgPath("submail_btn_bg")//登录按钮背景
-                .setLogBtnText("一键登录", 0xFFFFFF, 15)
+                .setLogBtnText("一键登录", 0xffffffff, 15,false)
                 .setLogBtnOffsetY_B(400)//登录按钮Y偏移量
                 .setLogBtnOffsetY(400)//登录按钮Y偏移量
                 .setLogBtn(500, 50)
@@ -69,11 +69,12 @@ public class CmOneLoginViewConfig {
                 .setCheckBoxImgPath("submail_login_checked", "submail_login_unchecked", 9, 9)
                 .setPrivacyState(false)//授权页check
 
-                .setPrivacyAlignment("登录即同意" + AuthThemeConfig.PLACEHOLDER2 + "《应用自定义服务条款一》、《应用自定义服务条款二》并使用本机号码校验", "《应用自定义服务条款一》", "https://www.mysubmail.com/policy/zh_cn", "《应用自定义服务条款二》", "http://d.sld.ai/Cq9KqP")
+                .setPrivacyAlignment("登录即同意" + AuthThemeConfig.PLACEHOLDER + "自定义协议一、自定义协议二、自定义协议三、自定义协议四、并使用本机号码校验", "自定义协议一", "https://www.baidu.com", "自定义协议二", "https://mysubmail.com",
+                        "自定义协议三", "http://www.sina.com", "自定义协议四", "http://gz.58.com")
                 .setPrivacyOffsetY(30)//隐私条款Y偏移量
                 .setPrivacyOffsetY_B(30)//隐私条款Y偏移
                 .setPrivacyMargin(20, 30)
-                .setPrivacyText(10, 0xff666666, 0xff0085d0, true)
+                .setPrivacyText(10, 0xff666666, 0xff0085d0, true,false)
                 .setClauseColor(0xffff0000, 0xff00ff00)//条款颜色
                 .setClauseLayoutResID(R.layout.title_layout, "clause_back");
 //
