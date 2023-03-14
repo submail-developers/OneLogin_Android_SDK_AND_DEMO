@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/submail/.gradle/caches/transforms-2/files-2.1/7575645f9d1a3af4256e47895613b6df/appcompat-1.1.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "/Users/submail/.gradle/caches/transforms-2/files-2.1/e1270069c68b650a8047f10856f911aa/jetified-quick_login_android_5.9.5/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,157,206,258,306,357,409,459,511,564,615,667,719,774,823,879,933,988,1046,1106,1166,1219,1270",
+                        "endColumns": "48,52,48,51,47,50,51,49,51,52,50,51,51,54,48,55,53,54,57,59,59,52,50,52",
+                        "endOffsets": "99,152,201,253,301,352,404,454,506,559,610,662,714,769,818,874,928,983,1041,1101,1161,1214,1265,1318"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "264,313,366,415,467,515,566,618,668,720,773,824,876,928,983,1032,1088,1142,1197,1255,1315,1375,1428,1479",
+                        "endColumns": "48,52,48,51,47,50,51,49,51,52,50,51,51,54,48,55,53,54,57,59,59,52,50,52",
+                        "endOffsets": "308,361,410,462,510,561,613,663,715,768,819,871,923,978,1027,1083,1137,1192,1250,1310,1370,1423,1474,1527"
+                    }
+                }
+            ]
+        }
+    ]
+}

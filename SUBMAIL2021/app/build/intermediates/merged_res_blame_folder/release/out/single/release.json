@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_login_button.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/login_button.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_sub_one_login_btn_normal.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/sub_one_login_btn_normal.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/layout_submail2_login_activity.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/layout/submail2_login_activity.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/anim_push_bottom_out.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/anim/push_bottom_out.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/layout_submail_activity_agreement.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/layout/submail_activity_agreement.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_submail_btn_press.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/submail_btn_press.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/layout_empty_layout.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/layout/empty_layout.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_submail_btn_normal.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/submail_btn_normal.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_update_bg.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/update_bg.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/layout_update_manage_dialog.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/layout/update_manage_dialog.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/generated/res/pngs/release/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/generated/res/pngs/release/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_sub_one_login_dialog_bg.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/sub_one_login_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/xml_network_security_config.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_sub_one_login_bg.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/sub_one_login_bg.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_check_selected.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/check_selected.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_submail_btn_enable.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/submail_btn_enable.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/anim_push_bottom_in.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/anim/push_bottom_in.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_submail_one_login_bg.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/submail_one_login_bg.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/generated/res/pngs/release/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_check_normal.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/check_normal.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_submail_login_unchecked.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/submail_login_unchecked.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/generated/res/pngs/release/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_general_btn_ovalclose.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/general_btn_ovalclose.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/generated/res/pngs/release/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/layout_cm_login_activity.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/layout/cm_login_activity.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_submail_load.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/submail_load.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_submail_logo.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/submail_logo.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/layout_submail_login_activity.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/layout/submail_login_activity.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_exit.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/exit.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/generated/res/pngs/release/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_submail_btn_bg.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/submail_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/layout_submail_login_activity3.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/layout/submail_login_activity3.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/layout_title_layout.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/layout/title_layout.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/generated/res/pngs/release/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_submail_submit_load.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/submail_submit_load.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_exit2.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/exit2.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_submail_login_checked.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/submail_login_checked.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_dun.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/dun.png"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable_submail_agree_checkbox.xml.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/src/main/res/drawable/submail_agree_checkbox.xml"
+    },
+    {
+        "merged": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/submail/Desktop/onelogain/AndroidSDK/备份/SUBMAIL20231/app/build/generated/res/pngs/release/drawable-hdpi/ic_launcher_background.png"
+    }
+]
