@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :submail_onelogin:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3eeeb67a4e65b6384ca72b9805bc092/jetified-submail_onelogin/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3eeeb67a4e65b6384ca72b9805bc092/jetified-submail_onelogin/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3eeeb67a4e65b6384ca72b9805bc092/jetified-submail_onelogin/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :quick_login_android_5.9.5.1:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c15c4f59791c48f0fad628d156c259f/jetified-quick_login_android_5.9.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c15c4f59791c48f0fad628d156c259f/jetified-quick_login_android_5.9.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c15c4f59791c48f0fad628d156c259f/jetified-quick_login_android_5.9.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
